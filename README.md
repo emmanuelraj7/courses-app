@@ -1,4 +1,4 @@
-# react-coursesapp
+# React-coursesapp
 Course Manager app with ReactJS framework to manage courses for admins or authors on an e-learning website.
 
 <h1>Frameworks used:</h1>
